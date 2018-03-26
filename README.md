@@ -16,3 +16,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+### 这是一个把插件打包到npm的测试 具体教程请转 [111]:(https://www.imooc.com/article/19691)
