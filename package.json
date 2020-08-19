@@ -1,7 +1,7 @@
 {
   "name": "vue-wbc-test",
   "description": "A Vue.js project",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "wlove_c <wLove_c@163.com>",
   "license": "MIT",
   "main": "dist/vue-wbc-test.js",
